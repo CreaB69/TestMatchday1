@@ -1,0 +1,54 @@
+{
+  "roster": [
+    {
+      "club": "TKO",
+      "name": "HuyTran",
+      "ovrGoc": 80,
+      "ovr": 80,
+      "matches": 1
+    },
+    {
+      "club": "LGC",
+      "name": "Bin07",
+      "ovrGoc": 80,
+      "ovr": 80,
+      "matches": 1
+    }
+  ],
+  "matches": [
+    {
+      "id": "m_1751500000000",
+      "date": "2026-07-03",
+      "home_idx": 0,
+      "away_idx": 1,
+      "home_label": "TKO x HuyTran",
+      "away_label": "LGC x Bin07",
+      "home_goals": 1,
+      "away_goals": 1,
+      "home_shots": 4,
+      "away_shots": 2,
+      "home_shots_acc": 3,
+      "away_shots_acc": 2,
+      "home_pass_pct": 91,
+      "away_pass_pct": 90,
+      "home_poss_pct": 48,
+      "away_poss_pct": 52,
+      "home_tackle": 6,
+      "away_tackle": 6,
+      "home_foul": 1,
+      "away_foul": 0,
+      "home_yellow": 0,
+      "away_yellow": 0,
+      "home_red": 0,
+      "away_red": 0,
+      "tier_home": 5,
+      "tier_away": 5,
+      "home_ovr_before": 80,
+      "away_ovr_before": 80,
+      "result": "Hòa",
+      "home_delta": 0,
+      "away_delta": 0
+    }
+  ],
+  "exported_at": "2026-07-03T00:00:00.000Z"
+}
